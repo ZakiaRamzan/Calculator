@@ -49,7 +49,7 @@ form .display input{
     width: 100%;
     overflow-x: auto;
      white-space: nowrap; /* Prevents text from wrapping */
-    direction: ltr; /* Ensures text aligns from left to right */
+/*     direction: ltr; /* Ensures text aligns from left to right */ */
 /*     padding-right: 10px; /* Adds space so text is not cut off */ */
     }
 
