@@ -47,11 +47,6 @@ form .display input{
     box-sizing: 45px;
     font-size: 40px;
 }
-    .display input {
-    width: 100%;
-overflow-x: auto;
-    }
-
 
 
 form input.equal{
