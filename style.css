@@ -46,13 +46,10 @@ form .display input{
     box-shadow: none;
     box-sizing: 45px;
     font-size: 40px;
-    .display input {
     width: 100%;
     overflow-x: auto;
     }
 
-
-}
 form input.equal{
     width: 145px;
 }
